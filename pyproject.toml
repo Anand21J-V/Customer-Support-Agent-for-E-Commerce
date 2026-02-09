@@ -10,5 +10,8 @@ dependencies = [
   "groq",
   "python-dotenv",
   "pydantic",
-  "pytest"
+  "pytest",
+  "supabase",
+  "requests"
 ]
+
